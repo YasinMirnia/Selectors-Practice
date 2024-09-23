@@ -25,3 +25,7 @@ a[href="#"] img {
 li a img:hover {
     width: 25px;
 }
+
+.language>li {
+    color: green;
+}
