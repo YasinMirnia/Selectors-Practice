@@ -9,3 +9,7 @@ h3 {
 #target {
     color: purple;
 }
+
+#target::before {
+    content: "㋡";
+}
