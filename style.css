@@ -21,3 +21,7 @@ a[href="#"] img {
 .imgs-list li:first-child img {
     width: 50px;
 }
+
+li a img:hover {
+    width: 25px;
+}
