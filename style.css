@@ -29,3 +29,7 @@ li a img:hover {
 .language>li {
     color: green;
 }
+
+.language ol+li {
+    color: orange;
+}
