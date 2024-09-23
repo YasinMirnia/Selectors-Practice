@@ -13,3 +13,7 @@ h3 {
 #target::before {
     content: "㋡";
 }
+
+a[href="#"] img {
+    width: 80px;
+}
