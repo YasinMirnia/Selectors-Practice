@@ -34,6 +34,6 @@ li a img:hover {
     color: orange;
 }
 
-ol > li {
+.language ol~li {
     color: brown;
 }
