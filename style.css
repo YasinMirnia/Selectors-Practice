@@ -33,3 +33,7 @@ li a img:hover {
 .language ol+li {
     color: orange;
 }
+
+ol > li {
+    color: brown;
+}
